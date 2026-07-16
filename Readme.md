@@ -6,14 +6,14 @@
 
 <br>
 
-[![Bachelor of Technology - AI/ML](https://img.shields.io/badge/BTech-AI%2FML-a371f7?style=for-the-badge&logo=databricks&logoColor=white)](https://pccoe.pccet.edu.in)
-[![PCCOE '29](https://img.shields.io/badge/PCCOE-Class%20of%202029-6f42c1?style=for-the-badge)](https://pccoe.pccet.edu.in)
+[![Bachelor of Technology - AI/ML](https://img.shields.io/badge/BTech-AI%2FML-a371f7?style=for-the-badge&logo=databricks&logoColor=white)](https://aiml.pccoepune.com/about)
+[![PCCOE '29](https://img.shields.io/badge/PCCOE-Class%20of%202029-6f42c1?style=for-the-badge)](https://www.pccoepune.com/))
 [![Pune, India](https://img.shields.io/badge/📍-Pune%2C%20India-5d5d5d?style=flat-square)](https://goo.gl/maps/PuneIndia)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-a371f7?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://siddheshbirewar.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhesh@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddheshbirewar)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddheshbirewar)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](siddheshbirewar77@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/siddhesh-birewar-20bb3136b)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/77-SIDD-77)
 
 <br>
 
@@ -55,8 +55,6 @@ I'm an **AI/ML engineer and product builder** at Pimpri Chinchwad College of Eng
 ### Frontend & Mobile
 ![Android](https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285f4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![XML](https://img.shields.io/badge/XML-f9ab00?style=flat-square&logo=xml&logoColor=white)
 
 ### Backend & Databases
 ![Firebase](https://img.shields.io/badge/Firebase-ffa726?style=flat-square&logo=firebase&logoColor=white)
@@ -78,10 +76,10 @@ I'm an **AI/ML engineer and product builder** at Pimpri Chinchwad College of Eng
 
 | Domain | Proficiency | Details |
 |--------|------------|---------|
-| **Supervised Learning** | Expert | Linear/Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost |
-| **Deep Learning** | Advanced | CNNs (Image Classification), RNNs (Time Series), Transfer Learning |
-| **Data Processing** | Expert | Pandas, NumPy, Scikit-learn, Feature Engineering, EDA |
-| **Computer Vision** | Advanced | Image Classification, Object Detection, Segmentation using OpenCV, TensorFlow |
+| **Supervised Learning** | Intermediate | Linear/Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost |
+| **Deep Learning** | Begineer | CNNs (Image Classification), RNNs (Time Series), Transfer Learning |
+| **Data Processing** | Intermediate | Pandas, NumPy, Scikit-learn, Feature Engineering, EDA |
+| **Computer Vision** | Begineer | Image Classification, Object Detection, Segmentation using OpenCV, TensorFlow |
 | **MLOps & Deployment** | Intermediate | Model Serving, TensorFlow Lite, Quantization, Production Pipelines |
 | **Reinforcement Learning** | Intermediate | Q-Learning, Policy Gradient, Game AI Fundamentals |
 
@@ -186,39 +184,32 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 
 | Recognition | Details |
 |-------------|---------|
-| **PCCOE Dean's Honor List** | Maintained 8.5+ CGPA across 4 semesters in AI/ML program |
-| **Technical Speaker** | Presented on "MLOps in Production" at PCCOE TechFest 2025 |
-| **Open Source Contributor** | 50+ merged PRs across ML and Android projects |
-| **Hackathon Winner** | 1st place, Smart India Hackathon (Agriculture Track) — CropNet |
-| **Research Paper** | "Precision Agriculture using Ensemble ML Methods" under peer review |
+| **Academics** | Maintained 8.9 CGPA across 2 semesters in AI/ML program for first year |
+| **Technical Speaker** | Presented in "Enovatex 26" on  CropNet Ai|
+| **Open Source Contributor** | 10+ merged PRs across ML and Android projects |
+| **Hackathon Winner** | 3rd place, Idea Inception — CropNet |
+| **Research Paper** |Currently working on ConArk AI for Research paper|
 
 </div>
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Participations
 
-### Cloud & Enterprise
-![AWS](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon&logoColor=white)
+### Cloud & Operations
+![Google Cloud Operations](https://img.shields.io/badge/Simplilearn-Scaling%20with%20Google%20Cloud%20Operations-4285F4?style=flat-square&logo=googlecloud&logoColor=white)[cite: 2]
 
 ### Data Science & ML
-![Kaggle](https://img.shields.io/badge/Kaggle-Advanced-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Deep%20Learning%20Specialization-CC0000?style=flat-square&logo=youtube&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Simplilearn-Machine%20Learning%20for%20Beginners-0052CC?style=flat-square)[cite: 5]
 
-### Development & Systems
-![Oracle](https://img.shields.io/badge/Oracle-Java%20Programmer-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Linux Academy](https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Workshops & Events
+![Flutter Flow](https://img.shields.io/badge/GDG%20PCCOE-Flutter%20Flow%20Workshop-02569B?style=flat-square&logo=flutter&logoColor=white)[cite: 4]
+![Ennovate'X 26](https://img.shields.io/badge/PCCOE-Ennovate'X%2026-FF9900?style=flat-square)[cite: 3]
+![Spectrum 26](https://img.shields.io/badge/PCCOE-Spectrum%20'26-EA4335?style=flat-square)
 
 ---
 
-## 🧑‍💻 Coding Profiles
 
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FDB913?style=for-the-badge&logo=leetcode&logoColor=black&label=450%2B%20Solved)](https://leetcode.com/siddheshbirewar)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&label=DSA%20Expert)](https://auth.geeksforgeeks.org/user/siddheshbirewar)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=black&label=5%20Star)](https://hackerrank.com/siddheshbirewar)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4DBF?style=for-the-badge&logo=codechef&logoColor=white&label=4%20Star)](https://codechef.com/users/siddheshbirewar)
 
 </div>
 
