@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Siddhesh%20Birewar&fontSize=90&fontColor=a371f7&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=72&descAlign=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Siddhesh%20Birewar&fontSize=90&fontColor=f0544f&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=72&descAlign=62" width="100%" />
 
 <div align="center">
 
