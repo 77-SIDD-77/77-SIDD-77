@@ -42,6 +42,22 @@ I'm an **AI/ML engineer and product builder** at Pimpri Chinchwad College of Eng
 
 ---
 
+# 📈 Engineering Interests
+
+| Area | Focus |
+|------|-------|
+| 🤖 Artificial Intelligence | Building useful AI products |
+| 🌐 Full Stack Development | Modern web applications |
+| 📊 Data Analytics | Data visualization & insights |
+| ⚡ Developer Tools | Productivity-focused software |
+| 🛠 Software Engineering | Clean architecture & scalable systems |
+| 🚀 Product Development | From idea to deployment |
+| 🔒 Cyber Security | Authentication & secure systems |
+| 📱 Cross Platform Development | Flutter & Web |
+
+---
+
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -193,8 +209,6 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 </div>
 
 ---
-
-## 📜 Certifications & Participations
 
 ## 📜 Certifications & Participations
 
