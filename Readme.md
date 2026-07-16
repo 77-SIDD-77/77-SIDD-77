@@ -196,16 +196,18 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 
 ## 📜 Certifications & Participations
 
+## 📜 Certifications & Participations
+
 ### Cloud & Operations
-![Google Cloud Operations](https://img.shields.io/badge/Simplilearn-Scaling%20with%20Google%20Cloud%20Operations-4285F4?style=flat-square&logo=googlecloud&logoColor=white)[cite: 2]
+[![Google Cloud Operations](https://img.shields.io/badge/Simplilearn-Scaling%20with%20Google%20Cloud%20Operations-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](./Google%20Cloud%20Ops%20Certificate.pdf)
 
 ### Data Science & ML
-![Machine Learning](https://img.shields.io/badge/Simplilearn-Machine%20Learning%20for%20Beginners-0052CC?style=flat-square)[cite: 5]
+[![Machine Learning](https://img.shields.io/badge/Simplilearn-Machine%20Learning%20for%20Beginners-0052CC?style=flat-square)](./Machine%20Learning%20Beginners%20Certificate.pdf)
 
 ### Workshops & Events
-![Flutter Flow](https://img.shields.io/badge/GDG%20PCCOE-Flutter%20Flow%20Workshop-02569B?style=flat-square&logo=flutter&logoColor=white)[cite: 4]
-![Ennovate'X 26](https://img.shields.io/badge/PCCOE-Ennovate'X%2026-FF9900?style=flat-square)[cite: 3]
-![Spectrum 26](https://img.shields.io/badge/PCCOE-Spectrum%20'26-EA4335?style=flat-square)
+[![Flutter Flow](https://img.shields.io/badge/GDG%20PCCOE-Flutter%20Flow%20Workshop-02569B?style=flat-square&logo=flutter&logoColor=white)](./Flutter%20Workshop.pdf)
+[![Ennovate'X 26](https://img.shields.io/badge/PCCOE-Ennovate'X%2026-FF9900?style=flat-square)](./Ennovatex%20participation%20certificate.pdf)
+[![Spectrum 26](https://img.shields.io/badge/PCCOE-Spectrum%20'26-EA4335?style=flat-square)](./CERT_Siddhesh%20Birewar.pdf)
 
 ---
 
