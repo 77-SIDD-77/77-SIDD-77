@@ -225,22 +225,19 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 ---
 
 </div>
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Birewar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Birewar&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Birewar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Birewar&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Siddhesh-Birewar&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Siddhesh-Birewar&theme=tokyonight&hide_border=true&cache_bust=1"/>
 
 </p>
 
@@ -250,7 +247,7 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Birewar&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Birewar&theme=algolia&no-frame=true&margin-w=15&margin-h=15&cache_bust=1"/>
 
 </p>
 
@@ -288,12 +285,9 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 
 <div align="center">
 
-![Snake animation](https://github.com/Siddhesh-Birewar/Siddhesh-Birewar/raw/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Siddhesh-Birewar/Siddhesh-Birewar/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
