@@ -231,53 +231,68 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddheshbirewar&theme=tokyonight&bg_color=0d1117&text_color=a371f7&title_color=a371f7&border_color=30363d&show_icons=true&icon_color=a371f7&count_private=true&include_all_commits=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Birewar-sketch&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Birewar-sketch&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siddheshbirewar&theme=tokyonight&background=0D1117&stroke=a371f7&ring=a371f7&fire=a371f7&currStreakLabel=a371f7)
+<p align="center">
 
-</div>
+<img src="https://streak-stats.demolab.com?user=Siddhesh-Birewar-sketch&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshbirewar&theme=tokyonight&bg_color=0d1117&text_color=a371f7&title_color=a371f7&border_color=30363d&langs_count=10&layout=compact)
-
-</div>
+</p>
 
 ---
 
-## 🏅 GitHub Trophies
+#
+# 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=siddheshbirewar&theme=darkhub&bg_color=0d1117&title_color=a371f7&icon_color=a371f7&text_color=a371f7&column=4&row=2&no-bg=false)](https://github.com/siddheshbirewar)
+<img src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Birewar-sketch&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 
-</div>
-
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddheshbirewar&theme=github-dark&bg_color=0d1117&color=a371f7&line=a371f7&point=a371f7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+</p>
 
 ---
+
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhesh-Birewar-sketch&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Siddhesh-Birewar-sketch/Siddhesh-Birewar-sketch/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Siddhesh-Birewar-sketch/Siddhesh-Birewar-sketch/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Siddhesh-Birewar-sketch/Siddhesh-Birewar-sketch/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://github.com/siddheshbirewar/siddheshbirewar/raw/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Siddhesh-Birewar/Siddhesh-Birewar/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
