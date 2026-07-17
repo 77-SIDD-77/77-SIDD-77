@@ -253,6 +253,8 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 
 ---
 
+---
+
 # 📈 Contribution Activity
 
 <p align="center">
@@ -262,6 +264,8 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 </p>
 
 ---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -281,13 +285,8 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
   </picture>
 </p>
 
-## 🐍 Contribution Snake
+---
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Siddhesh-Birewar/Siddhesh-Birewar/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 ## 🎯 Current Focus
 
 ```yaml
@@ -308,4 +307,3 @@ Exploring:
   - Sustainable Technology Solutions
   - Open-source Contributions
   - Production ML Pipelines at Scale
-
