@@ -11,15 +11,15 @@
 [![Pune, India](https://img.shields.io/badge/📍-Pune%2C%20India-5d5d5d?style=flat-square)](https://goo.gl/maps/PuneIndia)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-a371f7?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://siddheshbirewar.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](siddheshbirewar77@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/siddhesh-birewar-20bb3136b)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/77-SIDD-77)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddheshbirewar77@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-birewar-20bb3136b)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddhesh-Birewar)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=siddheshbirewar&style=flat-square&color=a371f7)
-![GitHub Followers](https://img.shields.io/github/followers/siddheshbirewar?style=flat-square&color=a371f7&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/siddheshbirewar?style=flat-square&color=a371f7&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=Siddhesh-Birewar&style=flat-square&color=a371f7)
+![GitHub Followers](https://img.shields.io/github/followers/Siddhesh-Birewar?style=flat-square&color=a371f7&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/Siddhesh-Birewar?style=flat-square&color=a371f7&label=Stars)
 
 </div>
 
@@ -57,7 +57,6 @@ I'm an **AI/ML engineer and product builder** at Pimpri Chinchwad College of Eng
 
 ---
 
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -93,9 +92,9 @@ I'm an **AI/ML engineer and product builder** at Pimpri Chinchwad College of Eng
 | Domain | Proficiency | Details |
 |--------|------------|---------|
 | **Supervised Learning** | Intermediate | Linear/Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost |
-| **Deep Learning** | Begineer | CNNs (Image Classification), RNNs (Time Series), Transfer Learning |
+| **Deep Learning** | Beginner | CNNs (Image Classification), RNNs (Time Series), Transfer Learning |
 | **Data Processing** | Intermediate | Pandas, NumPy, Scikit-learn, Feature Engineering, EDA |
-| **Computer Vision** | Begineer | Image Classification, Object Detection, Segmentation using OpenCV, TensorFlow |
+| **Computer Vision** | Beginner | Image Classification, Object Detection, Segmentation using OpenCV, TensorFlow |
 | **MLOps & Deployment** | Intermediate | Model Serving, TensorFlow Lite, Quantization, Production Pipelines |
 | **Reinforcement Learning** | Intermediate | Q-Learning, Policy Gradient, Game AI Fundamentals |
 
@@ -116,7 +115,7 @@ Sophisticated native Android fitness and nutrition tracking app built with **Kot
 | **Architecture** | MVVM, Clean Architecture, Dependency Injection (Hilt) |
 | **Security** | Firebase Authentication, encrypted local storage, permission management |
 | **Impact** | 95%+ user retention, minimalist UX drives 4.8★ rating |
-| **Repository** | [FitbitGo](https://github.com/siddheshbirewar/fitbitgo) |
+| **Repository** | [FitbitGo](https://github.com/Siddhesh-Birewar/fitbitgo) |
 
 **Technical Highlights:**
 - Dynamic calorie/macro calculations based on user biometrics
@@ -140,7 +139,7 @@ Data-driven crop recommendation and yield prediction system enabling smallholder
 | **ML Model** | Ensemble (Random Forest + XGBoost + Neural Networks) |
 | **Security** | JWT authentication, input validation, rate limiting |
 | **Impact** | 23% avg yield increase, 18% cost reduction for early adopters |
-| **Repository** | [CropNet](https://github.com/siddheshbirewar/cropnet) |
+| **Repository** | [CropNet](https://github.com/Siddhesh-Birewar/cropnet) |
 
 **Technical Highlights:**
 - Hyperlocal weather data integration (OpenWeatherMap API)
@@ -164,7 +163,7 @@ Cross-platform real estate discovery application built with **Dart/Flutter**, st
 | **Features** | Map-based search, saved listings, property comparison, virtual tours |
 | **Architecture** | GetX state management, Clean Architecture, Responsive design |
 | **Security** | Firebase Auth, encrypted user preferences |
-| **Repository** | [Homely](https://github.com/siddheshbirewar/homely) |
+| **Repository** | [Homely](https://github.com/Siddhesh-Birewar/homely) |
 
 **Technical Highlights:**
 - Real-time property availability sync
@@ -201,10 +200,10 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 | Recognition | Details |
 |-------------|---------|
 | **Academics** | Maintained 8.9 CGPA across 2 semesters in AI/ML program for first year |
-| **Technical Speaker** | Presented in "Enovatex 26" on  CropNet Ai|
+| **Technical Speaker** | Presented in "Enovatex 26" on CropNet AI |
 | **Open Source Contributor** | 10+ merged PRs across ML and Android projects |
 | **Hackathon Winner** | 3rd place, Idea Inception — CropNet |
-| **Research Paper** |Currently working on ConArk AI for Research paper|
+| **Research Paper** | Currently working on ConArk AI for Research paper |
 
 </div>
 
@@ -225,8 +224,6 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 
 ---
 
-
-
 </div>
 
 ---
@@ -235,54 +232,53 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Birewar-sketch&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Birewar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Birewar-sketch&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Birewar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Siddhesh-Birewar-sketch&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Siddhesh-Birewar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-#
 # 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Birewar-sketch&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Birewar&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
-
 
 # 📈 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhesh-Birewar-sketch&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhesh-Birewar&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
+
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Siddhesh-Birewar-sketch/Siddhesh-Birewar-sketch/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Siddhesh-Birewar/Siddhesh-Birewar/output/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Siddhesh-Birewar-sketch/Siddhesh-Birewar-sketch/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/Siddhesh-Birewar/Siddhesh-Birewar/output/github-snake.svg"
     />
     <img
       alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Siddhesh-Birewar-sketch/Siddhesh-Birewar-sketch/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/Siddhesh-Birewar/Siddhesh-Birewar/output/github-snake.svg"
       width="100%"
     />
   </picture>
@@ -318,31 +314,4 @@ Exploring:
   - Sustainable Technology Solutions
   - Open-source Contributions
   - Production ML Pipelines at Scale
-```
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Email%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhesh.birewar@pccoe.edu.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddheshbirewar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddheshbirewar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-a371f7?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://siddheshbirewar.dev)
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&text=Code%20%7C%20Create%20%7C%20Impact&fontSize=28&fontColor=a371f7" width="100%" />
-
-<div align="center">
-
-**"Building intelligent systems that solve real-world problems at scale."**
-
----
-
-*Last Updated: July 2026* | *Made with ❤️ by Siddhesh Birewar*
-
-</div>
