@@ -243,6 +243,9 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 
 ---
 
+<!-- Temporarily hidden due to Vercel API limits
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -250,8 +253,7 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 <img src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Birewar&theme=algolia&no-frame=true&margin-w=15&margin-h=15&cache_bust=1"/>
 
 </p>
-
----
+-->
 
 ---
 
