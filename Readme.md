@@ -222,7 +222,7 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 [![Ennovate'X 26](https://img.shields.io/badge/PCCOE-Ennovate'X%2026-FF9900?style=flat-square)](./Ennovatex%20participation%20certificate.pdf)
 [![Spectrum 26](https://img.shields.io/badge/PCCOE-Spectrum%20'26-EA4335?style=flat-square)](./CERT_Siddhesh%20Birewar.pdf)
 
----
+
 
 </div>
 # 📊 GitHub Analytics
